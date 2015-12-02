@@ -10,5 +10,5 @@ with open('../inputs/01.txt') as f:
             floor -= 1
 
         if floor == -1:
-            print(i)
+            print(i + 1)
             break
